@@ -1,3 +1,0 @@
-<DOCTYPE html>
-<html5 lang="en">
-  <head>
